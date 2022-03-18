@@ -1,0 +1,32 @@
+body {
+  display: block;
+  margin: auto;
+  margin-top: 5%;
+  text-align: center;
+  line-height: 3em;
+  background: url("https://wallpapercave.com/wp/wp2665744.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+label {
+  font-family: cursive;
+  color: white;
+  font-size: x-large;
+}
+
+input {
+  border-radius: 20px;
+  text-align: center;
+  height: 30px;
+  font-family: cursive;
+  font-style: italic;
+}
+
+#button {
+  border-radius: 20px;
+  width: 120px;
+  height: 35px;
+  font-size: medium;
+  font-family: cursive;
+}
